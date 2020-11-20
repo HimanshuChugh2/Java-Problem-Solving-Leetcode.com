@@ -28,3 +28,4 @@
 |204|[ Count Primes](https://leetcode.com/problems/count-primes/)|[Java](./solutions/204.%20Count%20Primes.java)|541 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](./solutions/217.%20Contains%20Duplicate.java)|8 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./solutions/226.%20Invert%20Binary%20Tree.java)|0 ms|
+|237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.java)|0 ms|

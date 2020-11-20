@@ -32,3 +32,4 @@
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./solutions/242.%20Valid%20Anagram.java)|3 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./solutions/268.%20Missing%20Number.java)|8 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./solutions/283.%20Move%20Zeroes.java)|5 ms|
+|303|[ Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./solutions/303.%20Range%20Sum%20Query%20-%20Immutable.java)|6 ms|

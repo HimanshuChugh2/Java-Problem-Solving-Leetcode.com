@@ -55,3 +55,4 @@
 |897|[ Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Java](./solutions/897.%20Increasing%20Order%20Search%20Tree.java)|2 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Java](./solutions/938.%20Range%20Sum%20of%20BST.java)|0 ms|
 |965|[ Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Java](./solutions/965.%20Univalued%20Binary%20Tree.java)|0 ms|
+|1025|[ Divisor Game](https://leetcode.com/problems/divisor-game/)|[Java](./solutions/1025.%20Divisor%20Game.java)|0 ms|

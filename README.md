@@ -1,2 +1,5 @@
-# Java-Problem-Solving-Leetcode.com
-Here I have posted all the problems that I have solved on Leetcode.com for practicing problem solving skills 
+# Leetcode
+
+| # | Title | Solution | Runtime |
+|---| ----- | -------- | ------- |
+|1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./solutions/1.%20Two%20Sum.java)|0 ms|

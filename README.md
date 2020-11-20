@@ -18,3 +18,4 @@
 |107|[ Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](./solutions/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.java)|1 ms|
 |111|[ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.java)|8 ms|
 |112|[ Path Sum](https://leetcode.com/problems/path-sum/)|[Java](./solutions/112.%20Path%20Sum.java)|31 ms|
+|122|[ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.java)|1 ms|

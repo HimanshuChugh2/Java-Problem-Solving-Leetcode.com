@@ -40,3 +40,4 @@
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](./solutions/412.%20Fizz%20Buzz.java)|1 ms|
 |501|[ Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Java](./solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.java)|3 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](./solutions/543.%20Diameter%20of%20Binary%20Tree.java)|0 ms|
+|559|[ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Java](./solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree.java)|2 ms|

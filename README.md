@@ -47,3 +47,4 @@
 |671|[ Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Java](./solutions/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.java)|0 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Java](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.java)|0 ms|
 |701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Java](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.java)|0 ms|
+|704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[Java](./solutions/704.%20Binary%20Search.java)|1 ms|

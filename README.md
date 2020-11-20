@@ -7,3 +7,4 @@
 |7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./solutions/7.%20Reverse%20Integer.java)|4 ms|
 |9|[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./solutions/9.%20Palindrome%20Number.java)|26 ms|
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./solutions/13.%20Roman%20to%20Integer.java)|4 ms|
+|14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./solutions/14.%20Longest%20Common%20Prefix.java)|14 ms|

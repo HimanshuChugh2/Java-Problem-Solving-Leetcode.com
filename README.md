@@ -25,3 +25,4 @@
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./solutions/169.%20Majority%20Element.java)|2067 ms|
 |198|[ House Robber](https://leetcode.com/problems/house-robber/)|[Java](./solutions/198.%20House%20Robber.java)|0 ms|
 |202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./solutions/202.%20Happy%20Number.java)|1 ms|
+|204|[ Count Primes](https://leetcode.com/problems/count-primes/)|[Java](./solutions/204.%20Count%20Primes.java)|541 ms|

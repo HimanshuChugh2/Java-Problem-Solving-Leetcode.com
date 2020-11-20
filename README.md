@@ -14,3 +14,4 @@
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](./solutions/49.%20Group%20Anagrams.java)|7 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./solutions/53.%20Maximum%20Subarray.java)|N/A|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./solutions/70.%20Climbing%20Stairs.java)|0 ms|
+|104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.java)|0 ms|

@@ -11,3 +11,4 @@
 |20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./solutions/20.%20Valid%20Parentheses.java)|22 ms|
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java)|0 ms|
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./solutions/27.%20Remove%20Element.java)|0 ms|
+|49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](./solutions/49.%20Group%20Anagrams.java)|7 ms|

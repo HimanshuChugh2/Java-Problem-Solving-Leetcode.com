@@ -50,3 +50,4 @@
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[Java](./solutions/704.%20Binary%20Search.java)|1 ms|
 |783|[ Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Java](./solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes.java)|0 ms|
 |844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Java](./solutions/844.%20Backspace%20String%20Compare.java)|2 ms|
+|852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Java](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java)|0 ms|

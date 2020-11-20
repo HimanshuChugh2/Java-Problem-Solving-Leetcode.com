@@ -52,3 +52,4 @@
 |844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Java](./solutions/844.%20Backspace%20String%20Compare.java)|2 ms|
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Java](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java)|0 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./solutions/876.%20Middle%20of%20the%20Linked%20List.java)|0 ms|
+|897|[ Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Java](./solutions/897.%20Increasing%20Order%20Search%20Tree.java)|2 ms|

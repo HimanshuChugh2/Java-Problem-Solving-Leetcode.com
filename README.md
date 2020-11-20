@@ -61,3 +61,4 @@
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Java](./solutions/1137.%20N-th%20Tribonacci%20Number.java)|0 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Java](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java)|0 ms|
 |1351|[ Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Java](./solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.java)|1 ms|
+|1374|[ Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Java](./solutions/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.java)|3 ms|

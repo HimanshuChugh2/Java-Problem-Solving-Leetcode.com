@@ -57,3 +57,4 @@
 |965|[ Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Java](./solutions/965.%20Univalued%20Binary%20Tree.java)|0 ms|
 |1025|[ Divisor Game](https://leetcode.com/problems/divisor-game/)|[Java](./solutions/1025.%20Divisor%20Game.java)|0 ms|
 |1029|[ Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Java](./solutions/1029.%20Two%20City%20Scheduling.java)|2 ms|
+|1046|[ Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Java](./solutions/1046.%20Last%20Stone%20Weight.java)|1 ms|
